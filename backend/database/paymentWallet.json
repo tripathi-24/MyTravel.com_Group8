@@ -1,0 +1,72 @@
+{
+  "680a0a50bea5ba9149c4f88d": {
+    "balance": 107000,
+    "transactions": [
+      {
+        "id": "627b9de4-9420-4a2b-9abe-ee18781e4da2",
+        "type": "DEPOSIT",
+        "amount": 7000,
+        "timestamp": "2025-04-24T15:53:29.413Z",
+        "description": "Added funds to wallet"
+      },
+      {
+        "id": "tx_f35adb24-c760-42c2-baeb-79a05c67d088",
+        "type": "PAYMENT",
+        "amount": -6000,
+        "timestamp": "2025-04-24T17:22:22.745Z",
+        "description": "Payment for booking booking_6ZLRHG",
+        "bookingId": "booking_6ZLRHG"
+      },
+      {
+        "id": "438da1e7-b1c9-430c-9d6d-3b7c1dff60f3",
+        "type": "REFUND",
+        "amount": 3000,
+        "timestamp": "2025-04-24T17:26:49.404Z",
+        "description": "Refund for booking booking_6ZLRHG",
+        "bookingId": "booking_6ZLRHG"
+      },
+      {
+        "id": "6306be28-2d31-41dd-8f2b-c2c8dafc9a4e",
+        "type": "DEPOSIT",
+        "amount": 100000,
+        "timestamp": "2025-04-25T02:39:47.007Z",
+        "description": "Added funds to wallet"
+      },
+      {
+        "id": "1a2a2e93-84c3-4472-9d4a-7064e2a6726b",
+        "type": "DEPOSIT",
+        "amount": 5000,
+        "timestamp": "2025-04-25T02:50:58.582Z",
+        "description": "Added funds to wallet"
+      },
+      {
+        "id": "tx_9821b1f7-4eea-43f6-aed5-1353da88169e",
+        "type": "PAYMENT",
+        "amount": -6000,
+        "timestamp": "2025-04-25T03:32:19.698Z",
+        "description": "Payment for booking booking_6ZLRHG",
+        "bookingId": "booking_6ZLRHG"
+      },
+      {
+        "id": "bebce67c-dca2-4473-b8ea-a4b73ce5d5fe",
+        "type": "REFUND",
+        "amount": 3000,
+        "timestamp": "2025-04-25T03:35:10.261Z",
+        "description": "Refund for booking booking_6ZLRHG",
+        "bookingId": "booking_6ZLRHG"
+      }
+    ]
+  },
+  "customer_2d0a58": {
+    "balance": 1000,
+    "transactions": []
+  },
+  "customer_cda3f7": {
+    "balance": 1000,
+    "transactions": []
+  },
+  "provider_4eeb3d": {
+    "balance": 1000,
+    "transactions": []
+  }
+}
